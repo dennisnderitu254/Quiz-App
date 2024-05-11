@@ -23,9 +23,9 @@ npm i bootstrap
 
 ## Example: 
 
-`App.js`: This is our main file where all the logic for scoring and questions is written and other components are imported
-`Question.js`: This component contains the question component to be displayed
-`QuestionBank.js`: This component contains the raw data of the questions in our file
+`App.js`: This is the main file where all the logic for scoring and questions is written and other components are imported
+`Question.js`: This component contains the question component 
+`QuestionBank.js`: This component contains the raw data of the questions
 `Option.js`: This component has options corresponding to a particular question
 `Score.js`: This component is used to display the final score
 
